@@ -1,7 +1,7 @@
 import { HomePage } from "../pageObjects/HomePage";
 
 
-describe('demoqa MD1', () => {
+describe('MD2', () => {
 
   context("Selectable", () => {
 
